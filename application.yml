@@ -8,3 +8,4 @@ logging:
   level:
     press.mizhifei.dentist: INFO
     org.springframework: INFO
+    reactor.netty: INFO
