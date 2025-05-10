@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: dentistdss
+
+
+logging:
+  level:
+    press.mizhifei.dentist: INFO
+    org.springframework: INFO
